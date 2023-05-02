@@ -2,7 +2,7 @@
 
 **License Plate Detection and License Plate Recognition Reasoning Here:[License Plate Detection and Recognition](https://github.com/201918010332Thomas/ANPR)**
 
-**License plate recognition training here: [License plate recognition](https://github.com/we0091234/crnn_plate_recognition/tree/plate_color)**
+**License plate recognition training here: [License plate recognition](https://github.com/201918010332Thomas/CRNN_LPR)**
 
 
 | Model  | Accuracy | Speed(ms) | Model size(MB) | link                                                    |
@@ -25,7 +25,7 @@ train.py
 
 ## Environmental configuration
 
-1. WIN 10 or Ubuntu 16.04
+1. Windows 10 or Ubuntu 16.04
 2. **PyTorch > 1.2.0 (may fix ctc loss)**🔥
 3. yaml
 4. easydict
